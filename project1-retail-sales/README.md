@@ -40,15 +40,14 @@ Data Quality Flag — Clean / Duplicate / Missing flagging
 
  Project Structure
 retail-sales-analytics/
-│
-├── day2.ipynb                          # Main analysis notebook
-├── Day3_PDF_Report.ipynb               # Automated PDF report generator
-├── Sample_Superstore.csv               # Raw dataset (9,994 orders)
-├── superstore_cleaned.csv              # Cleaned dataset with engineered features
-├── superstore_cleaned.xlsx             # Excel version of cleaned data
-├── MASTER_DASHBOARD.png                # Full multi-chart dashboard
-├── Superstore_Sales_Report.pdf         # Auto-generated business report
-└── pdf_charts/                         # Individual chart exports
+
+day2.ipynb                          # Main analysis notebook
+Day3_PDF_Report.ipynb               # Automated PDF report generator
+Sample_Superstore.csv               # Raw dataset (9,994 orders)
+superstore_cleaned.csv              # Cleaned dataset with engineered feature                                               superstore_cleaned.xlsx             # Excel version of cleaned data
+MASTER_DASHBOARD.png                # Full multi-chart dashboard
+Superstore_Sales_Report.pdf         # Auto-generated business report
+pdf_charts/                         # Individual chart exports
 
 Visualisations Included
 
