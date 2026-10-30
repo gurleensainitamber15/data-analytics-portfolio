@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi! I am a freelance data analyst specializing in Python, SQL and machine learning. 
+Hi! I am a data analyst specializing in Python, SQL and machine learning. 
 Below are 3 complete projects showing my full analytics workflow from raw data 
 to client-ready deliverables.
 
@@ -92,14 +92,14 @@ Interactive Dashboards, Real-time Data
 
 | Skill | Level |
 |-------|-------|
-| Python (Pandas, NumPy) | Advanced |
-| Data Visualization | Advanced |
-| Machine Learning | Intermediate |
-| SQL and Databases | Intermediate |
-| Dashboard Development | Intermediate |
-| PDF Report Generation | Advanced |
-| Web Deployment | Intermediate |
-| Business Intelligence | Advanced |
+| Python (Pandas, NumPy) | beginning |
+| Data Visualization | beginning |
+| Machine Learning | beginning |
+| SQL and Databases | beginning |
+| Dashboard Development | beginning |
+| PDF Report Generation | beginning |
+| Web Deployment | beginning  |
+| Business Intelligence | beginning |
 
 ---
 
@@ -131,6 +131,4 @@ linkedin - www.linkedin.com/in/gurleensainitamber
 phone number - 9463731550
 
 
-Available for freelance projects.  
-Open to both one-time analysis projects and ongoing dashboard maintenance.  
-Feel free to reach out!
+
